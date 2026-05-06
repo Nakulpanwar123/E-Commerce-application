@@ -1,0 +1,55 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node / frontend
+/frontend/node_modules/
+/frontend/dist/
+/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+/frontend/build/
+/frontend/.turbo/
+
+# Laravel / PHP
+/backend/vendor/
+/backend/node_modules/
+/backend/public/hot
+/backend/public/storage
+/backend/storage/
+/backend/.phpunit.result.cache
+
+# Environment files
+/.env
+/.env.*
+/backend/.env
+/backend/.env.*
+/frontend/.env
+
+# Logs
+*.log
+/backend/storage/logs/
+
+# IDEs and editors
+/.idea/
+*.iml
+/.vscode/
+
+# Misc
+.sass-cache
+.cache
+.parcel-cache
+.turbo
+coverage/
+dist/
+build/
+
+# Optional: OS generated files
+Thumbs.db
+ehthumbs.db
+Icon?
