@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#111827"/>
+  <rect x="80" y="90" width="640" height="820" rx="42" fill="#1f2937"/>
+  <circle cx="400" cy="245" r="76" fill="#f2d1bf"/>
+  <path d="M268 368c0-64 52-116 116-116h32c64 0 116 52 116 116v292c0 28-22 50-50 50H318c-28 0-50-22-50-50V368z" fill="#0f172a"/>
+  <text x="400" y="832" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">Men</text>
+</svg>

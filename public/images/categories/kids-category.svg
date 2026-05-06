@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#0f766e"/>
+  <rect x="80" y="90" width="640" height="820" rx="42" fill="#0d9488"/>
+  <circle cx="400" cy="230" r="68" fill="#f2cfbc"/>
+  <path d="M305 350c0-56 45-101 101-101h0c56 0 101 45 101 101v80H305v-80z" fill="#22c55e"/>
+  <rect x="330" y="430" width="140" height="210" rx="26" fill="#38bdf8"/>
+  <text x="400" y="832" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">Kids</text>
+</svg>
